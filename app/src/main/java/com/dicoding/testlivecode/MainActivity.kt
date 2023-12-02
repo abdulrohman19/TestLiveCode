@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         //test
         //Halo bg dwiki
+        //coba2
     }
 }
