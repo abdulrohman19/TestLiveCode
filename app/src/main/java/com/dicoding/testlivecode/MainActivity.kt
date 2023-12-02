@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         //test
         //Halo bg dwiki
         //coba2
+        //coba2 lagi
     }
 }
